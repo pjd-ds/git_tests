@@ -1,4 +1,4 @@
 function sayHi(name) {
  return "Hello " + name + "!";
 }
-console.log(sayHi("One  johi")); 
+console.log(sayHi("2:56")); 
